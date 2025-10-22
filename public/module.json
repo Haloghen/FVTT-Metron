@@ -9,7 +9,7 @@
 	"readme": "https://github.com/Ethaks/FVTT-Metron/blob/master/README.md",
 	"bugs": "https://github.com/Ethaks/FVTT-Metron/issues",
 	"changelog": "https://github.com/Ethaks/FVTT-Metron/blob/master/CHANGELOG.md",
-	"version": "0.3.7",
+	"version": "0.3.8",
 	"compatibility": { "minimum": "13", "verified": "13" },
 	"esmodules": ["metron.js"],
 	"languages": [
